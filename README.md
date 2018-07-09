@@ -16,5 +16,5 @@
 
 
 
-<a id="my-thing"></a>##My Thing
+<div id="my-thing"></div>##My Thing
 
