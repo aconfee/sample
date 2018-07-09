@@ -16,5 +16,5 @@
 
 
 
-##My Thing
+<a id="my-thing"></a>##My Thing
 
